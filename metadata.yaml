@@ -23,5 +23,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: Famous English Poets, Vol. 1, Num. 44, Serial No. 44'
 url: http://www.gutenberg.org/ebooks/49805
